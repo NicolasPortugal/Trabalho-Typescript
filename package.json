@@ -1,0 +1,19 @@
+{
+  "name": "meu-projeto-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc -w & nodemon dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.15.28",
+    "nodemon": "^3.1.10",
+    "typescript": "^5.0.0"
+  }
+}
