@@ -9,7 +9,7 @@ Este é um projeto simples de **perguntas e respostas** desenvolvido usando apen
 ```
 sistema-perguntas/
 ├── dist/
-│   └── main.js
+│   └── index.js
 ├── node_modules/
 ├── src/
 │   └── index.ts 
